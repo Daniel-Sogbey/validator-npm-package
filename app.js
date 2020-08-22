@@ -1,2 +1,2 @@
-const isURL = require('./isURL');
-const isEmail = require('./isEmail');
+const isURL = require('./options/isURL');
+const isEmail = require('./options/isEmail');
