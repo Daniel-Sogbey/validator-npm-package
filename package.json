@@ -1,6 +1,6 @@
 {
   "name": "@dan-sogbey/valitator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether a string is a url or email",
   "main": "app.js",
   "scripts": {
@@ -9,8 +9,7 @@
   "keywords": [
     "url checker",
     "isURL"
-  ]
-  ,
+  ],
   "author": "Daniel Sogbey",
   "license": "ISC"
 }
